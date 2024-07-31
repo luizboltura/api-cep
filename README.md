@@ -51,6 +51,20 @@
 
 ### Passo 2: Instalar dependências (se necessário)
 
-   - Ver em requirements.txt
+1.  Verifique em requirements.txt (em anexo).
+
+2. Se for necessário:
+    
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Execute o aplicativo:
+
+    ```bash
+    python app_cep.py
+    ```
+
+
 
 
