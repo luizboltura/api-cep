@@ -18,7 +18,7 @@
 
     Sinta-se à vontade para contribuir! Abra um issue ou envie um pull request.
 
-Tecnologias Usadas
+### *Tecnologias Usadas*
 
     - Python 3.11+
     - Sistema operacional Ubuntu 22.04.4 LTS
@@ -28,9 +28,9 @@ Tecnologias Usadas
 
 ### Passo 01: Clonar o repositório
 
-1. Abra o Terminal: No seu sistema operacional e navegue até o diretório desejado.
+1. Abra o Terminal e navegue até o diretório desejado.
 
-2. Crie um diretório(se preferir, ou você pode usar um de já existente) entre no repositório:
+2. Crie um diretório(se preferir, ou você pode usar um já existente) entre no repositório.
     Por exemplo:
 
    ```bash
