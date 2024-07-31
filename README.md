@@ -15,11 +15,27 @@ Tecnologias Usadas
 
 ### *Instalação:*
 
-1. Crie um diretório e entre no repositório
+## Passo 01: Clonar o repositório
+
+1. Abra o Terminal: No seu sistema operacional e navegue até o diretório desejado.
+
+2. Crie um diretório(se preferir, ou você pode usar um de já existente) entre no repositório:
+Por exemplo:
    ```bash
    mkdir repository
    cd repository
     ```
+
 3. Clone o repositório:
-4. 
+    ```bash
+   git clone https://github.com/luizboltura/api-cep.git
+    ```
+ou, se você estiver usando SSH:
+    ```bash
+   git clone git@github.com:luizboltura/api-cep.git
+    ```
+
+## Passo 2: Instalar dependências (se necessário)
+
+
 
