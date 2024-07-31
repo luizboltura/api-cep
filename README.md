@@ -51,5 +51,6 @@
 
 ### Passo 2: Instalar dependências (se necessário)
 
+   - Ver em requirements.txt
 
 
