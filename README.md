@@ -14,10 +14,6 @@
     - O aplicativo envia uma requisição para a API de consulta de endereços.
     - As informações do endereço correspondente ao CEP são exibidas no prompt.
 
-### *Contribuição:*
-
-    Sinta-se à vontade para contribuir! Abra um issue ou envie um pull request.
-
 ### *Tecnologias Usadas*
 
     - Python 3.11+
